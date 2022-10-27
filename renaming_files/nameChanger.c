@@ -27,6 +27,8 @@ int main(){
         printf("%s\n",names[j]);
     }
 
+    
+
 
 
     return 0;
